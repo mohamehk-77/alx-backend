@@ -6,6 +6,7 @@ class BaseCaching:
     """BaseCaching defines:
       - self.cache_data, a dictionary to store the cache data
     """
+    MAX_ITEMS = 4
 
     def __init__(self):
         """Initialize the cache data"""
