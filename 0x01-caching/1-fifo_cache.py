@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""This module contains a function that returns the JSON representation of an object (string)"""
+"""cache max 4 """
+
 from base_caching import BaseCaching
 
 
